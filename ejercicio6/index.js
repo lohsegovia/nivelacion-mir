@@ -18,5 +18,5 @@ const pedro = {
   //paso9
   function saluda(){
     console.log("Hola, me llamo "+pedro.nombre)
-  } return saluda();
+  } 
   
